@@ -9,4 +9,7 @@ COMB has a size of 98 GB. It might take "little" bit of time to extract password
  
 In these scenarios, the logic of code to split across ':' symbol fails.
 
-###Tasks to be done: 
+### Tasks to be done: 
+    Find if a password & email are stored in above mentioned format.
+        Find a ';'
+    
