@@ -5,7 +5,7 @@ To extract passwords from ([COMB](https://github.com/samokosik/COMB/blob/main/RE
 COMB has a size of 98 GB. It might take "little" bit of time to extract passwords. 
  
  Some emails and passwords are stores in this form.
-> <abc>@<xyz>.ru:<abc>@<xyz>.ru;P6E4CNvUZoFU143
+> <abc>@<xyz>.ru:<abc>@<xyz>.ru;P6E4CNvUZoFU143 \n
 In these scenarios, the logic of code to split across ':' symbol fails.
 
 ###Tasks to be done: 
