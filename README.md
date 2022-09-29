@@ -11,5 +11,8 @@ In these scenarios, the logic of code to split across ':' symbol fails.
 
 ### Tasks to be done: 
     Find if a password & email are stored in above mentioned format.
-        Find a ';'
+    Find a ';'
+    Use Try Except Block to obtain the password
+    
+If you need COMB archive, contact me.
     
