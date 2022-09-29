@@ -52,7 +52,7 @@ def reading_data(location):
     raw_data.close()
     success_read(location)
 
-# 900k@rambler.ru:900k@rambler.ru;P6E4CNvUEoFU123
+
 
 
 def success_read(location):
