@@ -14,5 +14,5 @@ In these scenarios, the logic of code to split across ':' symbol fails.
     Find a ';'
     Use Try Except Block to obtain the password
     
-If you need COMB archive, contact me.
+If you need COMB archive, contact me. (18 Gb)
     
